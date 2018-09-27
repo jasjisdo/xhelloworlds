@@ -13,3 +13,4 @@ Contributors:
 - Arne Brasseur (@plexus): Clojure, Haskell
 - Nicholas Johns (@taion809): PHP, ASM
 - Markus Prinz (@cypher): Rust
+- Jaschar Domann (@jasjisdo): Kotlin, Ceylon, Fantom, Gosu
